@@ -4,10 +4,10 @@ import { watchFile, unwatchFile } from 'fs'
 
 // Ini owner real no fek"
 global.owner = [
-  ['6285785705233'], // global owner 0
-  ['628990085223'], // global owner 1
-  ['6283848947227'], // global owner 2
-  ['6285785705233', 'Chandra XD', true] // global owner 3
+  ['6282220203269', 'Melvin', true], // global owner 0
+  ['6285967221850'], // global owner 1
+  ['6281575757518'], // global owner 2
+  ['6285701174864', 'Rizzxyy', true] // global owner 3
 ]
 
 global.mods = [] // Want some help?
